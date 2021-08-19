@@ -1,3 +1,13 @@
+/*body ::- webkit scrollbar sert à cacher le scroll bar*/
+body::-webkit-scrollbar {
+    width: 0.25rem;
+}
+body::-webkit-scrollbar-track {
+    background: #1E1E24;
+}
+body::-webkit-scrollbar-thumb {
+    background: var(--gold);
+}
 *{
     margin: 0;
     padding: 0;
