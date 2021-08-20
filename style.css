@@ -298,4 +298,19 @@ color: #f5f5f5 !important;
 border-right: 1px solid grey;
 height: 100%;
 }
-/*Card*/
+/*button*/
+#occasion{
+    color: black;
+}
+#bon{
+    color: black;
+    font-weight: 600;
+}
+#pic{
+    margin-left: 100px;
+    margin-bottom: 200px;
+}
+#exemplaire{
+    color: rgb(36, 182, 68);
+    
+}
