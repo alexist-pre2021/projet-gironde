@@ -6,7 +6,7 @@ body::-webkit-scrollbar-track {
     background: #1E1E24;
 }
 body::-webkit-scrollbar-thumb {
-    background: var(--gold);
+    background: white;
 }
 *{
     margin: 0;
@@ -312,5 +312,7 @@ height: 100%;
 }
 #exemplaire{
     color: rgb(36, 182, 68);
-    
+}
+#btn1{
+border-color: whitesmoke;
 }
