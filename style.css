@@ -7,7 +7,7 @@ body::-webkit-scrollbar-track {
 }
 body::-webkit-scrollbar-thumb {
     background: white;
-    border-radius: 50%;
+    border-radius: 200%;
 }
 *{
     margin: 0;
